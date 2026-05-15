@@ -1,7 +1,12 @@
 # Projeto de Objetos de Aprendizagem
-## Tema: Banco de dados
+**Tema:** Banco de dados
+
+---
+
 ### Público-alvo
+
 Estudantes do Ensino Médio / Superior que queiram aprender sobre gerenciamento de banco de dados.
+
 ---
 
 ## Onde acessar
