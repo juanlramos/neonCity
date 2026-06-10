@@ -62,7 +62,7 @@ https://cmapscloud.ihmc.us/viewer/cmap/22KK7885F-GLPJXJ-F7C2X1
 
 ### Modelo Instrucional
 
-Acesse o modelo instrucional no link a seguir:  
+![](/src//assets/mapa-instrucional.png)
 
 
 ---
