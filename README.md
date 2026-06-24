@@ -50,7 +50,7 @@ Para reconstruir ou modificar este projeto, os seguintes arquivos são essenciai
 1.  **Clonar o repositório:**
 
     ```bash
-    git clone [https://github.com/seu-usuario/neoncity.git](https://github.com/seu-usuario/neoncity.git)
+    git clone https://github.com/juanlramos/neonCity.git
     ```
 
 2.  **Instalar dependências:**
