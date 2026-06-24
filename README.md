@@ -90,8 +90,9 @@ Para alterar o assunto:
 ## Documentação Pedagógica
 
 ### Onde acessar
-
 A versão funcional pode ser encontrada pelo link:
+
+[neonCity](https://neon-city-tau.vercel.app/)
 
 ### Mapa Conceitual
 
